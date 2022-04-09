@@ -14,7 +14,7 @@
     "classnames": "^2.2.6",
     "graphql": "^14.0.2",
     "graphql-tag": "^2.10.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "next": "latest",
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
